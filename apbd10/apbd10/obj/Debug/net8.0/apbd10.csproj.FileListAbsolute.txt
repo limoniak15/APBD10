@@ -1,0 +1,7 @@
+C:\Users\simsy\OneDrive\Pulpit\APBD\zadania\APBD10\apbd10\apbd10\obj\Debug\net8.0\apbd10.csproj.AssemblyReference.cache
+C:\Users\simsy\OneDrive\Pulpit\APBD\zadania\APBD10\apbd10\apbd10\obj\Debug\net8.0\apbd10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsy\OneDrive\Pulpit\APBD\zadania\APBD10\apbd10\apbd10\obj\Debug\net8.0\apbd10.AssemblyInfoInputs.cache
+C:\Users\simsy\OneDrive\Pulpit\APBD\zadania\APBD10\apbd10\apbd10\obj\Debug\net8.0\apbd10.AssemblyInfo.cs
+C:\Users\simsy\OneDrive\Pulpit\APBD\zadania\APBD10\apbd10\apbd10\obj\Debug\net8.0\apbd10.csproj.CoreCompileInputs.cache
+C:\Users\simsy\OneDrive\Pulpit\APBD\zadania\APBD10\apbd10\apbd10\obj\Debug\net8.0\apbd10.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\simsy\OneDrive\Pulpit\APBD\zadania\APBD10\apbd10\apbd10\obj\Debug\net8.0\apbd10.MvcApplicationPartsAssemblyInfo.cache
